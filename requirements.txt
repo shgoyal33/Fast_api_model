@@ -8,6 +8,6 @@ onnx==1.6.0
 onnxconverter-common==1.6.1
 onnxruntime==1.2.0
 requests==2.22.0
-pydantic==1.5.1
+pydantic==1.6.2
 uvicorn==0.11.5
 pandas==1.0.1
